@@ -6,6 +6,8 @@ OLD=$1
 NEW=$2
 
 FILES=$(grep -rl "$1" BPDP_Dataset)
+echo $FILES
+
 for FILE in $FILES
 do
 	sed -i "s/$OLD/$NEW/g" $FILE
