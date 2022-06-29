@@ -4,13 +4,13 @@
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://dbpedia.org/resource/Oldenburg_(Oldenburg)>
+<http://dbpedia.org/resource/Oldenburg_(city)>
         rdfs:label     "Oldenbourg"@fr , "Oldenburg (Oldb)"@de , "Oldenburg (Oldenburg)"@en ;
         owl:sameAs     <http://fr.dbpedia.org/resource/Oldenbourg> , <http://de.dbpedia.org/resource/Oldenburg_(Oldb)> ;
         skos:altLabel  "Oldenbourg"@fr , "Oldenburg (Oldb)"@de , "Oldenburg (Oldenburg)"@en .
 
 <http://dbpedia.org/resource/Christian_I_of_Denmark__1>
-        dbo:deathPlace  <http://dbpedia.org/resource/Oldenburg_(Oldenburg)> ;
+        dbo:deathPlace  <http://dbpedia.org/resource/Oldenburg_(city)> ;
         dbo:from        "1426-1-1"^^xsd:date ;
         dbo:to          "1426-1-1"^^xsd:date .
 
