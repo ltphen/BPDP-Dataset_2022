@@ -15,3 +15,4 @@ Updated resources to fit DBpedia 2022 \
 
 # Removed
 * <http://dbpedia.org/resource/Duns>
+* <http://dbpedia.org/resource/Peștișani>
